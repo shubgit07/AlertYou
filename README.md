@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🔐 MERN Stack Emergency Alert App
 
 A powerful and discreet **safety application** built with the MERN Stack (MongoDB, Express.js, React, Node.js) that instantly **alerts trusted contacts** during unsafe situations. Alertly ensures quick help through **real-time location sharing** - empowering users to stay safe, anytime, anywhere.
@@ -25,3 +26,7 @@ A powerful and discreet **safety application** built with the MERN Stack (MongoD
 ## 🤝 **Contributing**
 
 Contributions are welcome! Feel free to open issues, submit pull requests, or suggest features to make AlertYou
+=======
+# AlertYou
+its in developing phase
+>>>>>>> a0534a404eaeb6e3f6a8d461231267594c995453
