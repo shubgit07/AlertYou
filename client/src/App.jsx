@@ -135,7 +135,7 @@ function App() {
         <Container maxWidth="md">
           <Paper elevation={6} sx={{ p: 5, borderRadius: 4 }}>
             <Typography variant="h4" align="center" fontWeight={600} gutterBottom>
-              🚨 AlertYou: Emergency Alert App
+              🚨🚑 AlertYou: Emergency Alert App
             </Typography>
             <Typography variant="body1" align="center" sx={{ mb: 4 }}>
               Fill in the details below to send an emergency alert to your family.
@@ -217,7 +217,7 @@ function App() {
                       }
                     }}
                   >
-                    🚨 Send Emergency Alert
+                  Send Emergency Alert Now!!
                   </Button>
                 </Grid>
               </Grid>
